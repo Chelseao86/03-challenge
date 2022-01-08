@@ -9,7 +9,7 @@ Randomly generate a password that meets certain criteria so that a user can crea
 * JavaScript
 
 ## Website
- https://chelseao86.github.io/03-Challenge/
+ https://chelseao86.github.io/03-challenge/
 
 
 ##Screenshot
